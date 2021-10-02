@@ -1,0 +1,4 @@
+A playground for variational inference experiments.  
+
+Initial files starts with code derived from Ritche Vinks blog on VI. 
+https://www.ritchievink.com/blog/2019/09/16/variational-inference-from-scratch/
